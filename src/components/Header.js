@@ -22,7 +22,7 @@ const Header = () => {
               >
                 <img
                   src="http://www.iec-indulge.com/img/slide/slide-2.jpg"
-                  alt="Image 1"
+                  alt="raj"
                   style={{
                     width: "100%",
                     height: "100%",
@@ -79,7 +79,7 @@ const Header = () => {
               >
                 <img
                   src="http://www.iec-indulge.com/img/slide/slide-3.jpg"
-                  alt="Image 2"
+                  alt="raj 2"
                   style={{
                     width: "100%",
                     height: "100%",
@@ -136,7 +136,7 @@ const Header = () => {
               >
                 <img
                   src="http://www.iec-indulge.com/img/slide/slide-1.jpg"
-                  alt="Image 3"
+                  alt="raj 3"
                   style={{
                     width: "100%",
                     height: "100%",
