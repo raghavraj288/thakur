@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import { FaUserTie, FaKitchenSet } from "react-icons/fa";
+import { FaUserTie} from "react-icons/fa";
 import { TbLayoutGrid } from "react-icons/tb";
 import { BiFoodMenu } from "react-icons/bi";
 import { GiKitchenKnives } from "react-icons/gi";
