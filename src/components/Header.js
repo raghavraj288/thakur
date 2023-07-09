@@ -21,8 +21,8 @@ const Header = () => {
                 }}
               >
                 <img
-                  src="http://www.iec-indulge.com/img/slide/slide-2.jpg"
-                  alt="raj"
+                  src="slide2.jpg"
+                  alt="slide 1"
                   style={{
                     width: "100%",
                     height: "100%",
@@ -78,8 +78,8 @@ const Header = () => {
                 }}
               >
                 <img
-                  src="http://www.iec-indulge.com/img/slide/slide-3.jpg"
-                  alt="raj 2"
+                  src="slide3.jpg"
+                  alt="slide 2"
                   style={{
                     width: "100%",
                     height: "100%",
@@ -135,8 +135,8 @@ const Header = () => {
                 }}
               >
                 <img
-                  src="http://www.iec-indulge.com/img/slide/slide-1.jpg"
-                  alt="raj 3"
+                  src="slide1.jpg"
+                  alt="slide 3"
                   style={{
                     width: "100%",
                     height: "100%",
